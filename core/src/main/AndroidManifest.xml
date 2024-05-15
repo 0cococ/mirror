@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>-->
+<!--    &lt;!&ndash; 允许程序写入外部存储，如 SD 卡 &ndash;&gt;-->
+
+<!--    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>-->
+<!--    &lt;!&ndash; 允许程序读取外部存储，如 SD 卡 &ndash;&gt;-->
+<!--    <application-->
+<!--        android:name=".App">-->
+<!--        </application>-->
+</manifest>
